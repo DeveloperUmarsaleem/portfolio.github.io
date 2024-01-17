@@ -44,7 +44,7 @@
     height:100%;
     position: fixed;
     z-index:99999;
-    background-color:#1E0D29;
+    background-color:#1f1f1f;
 
 }
 .loader{
@@ -1664,17 +1664,24 @@
         transform: translateY(-50%);
     }
     .about-para-1{
-        font-family:Robo;
-        font-size:12px;
+        font-family:Dosis;
+        font-size:26px;
         color: #ffffff;
-        margin-top: -30px;
+        margin-top:-10px;
+        font-weight: bolder;
     }
     .about-para{
-        font-family:Robo;
-        font-size:12px;
+        font-family:Dosis;
+        font-size:26px;
         color: #ffffff;
+        font-weight: bolder;
     }
-
+    .about-text-1 {
+        color: #ffffff;
+        font-family: Gilory;
+        font-size: 16px;
+        text-align: left; 
+    }
     .nav-pills-card .nav-link-card{
         width: 18rem;
         height: auto;
@@ -2134,7 +2141,7 @@
         width: 50px !important;
         height: auto;
         float: left;
-        margin-right:160px;
+        margin-right:225px;
         margin-top: 0;
     }
     .navbar-nav .nav-item .header-nav{
@@ -2173,21 +2180,25 @@
     }
 
 
-    .card-img-overlay{
-    }
-    .overlay-inner{
-    }
+   
     .about-para-1{
-        font-family:Robo;
-        font-size:10px;
+        font-family:Dosis;
+        font-size:26px;
         color: #ffffff;
         margin-top:-10px;
+        font-weight:bolder !important;
     }
     .about-para{
-        font-family:Robo;
-        font-size:10px;
+        font-family:Dosis;
+        font-size:26px;
         color: #ffffff;
-
+        font-weight:bolder !important;
+    }
+    .about-text-1 {
+        color: #ffffff;
+        font-family: Gilory;
+        font-size: 16px;
+        text-align: left; 
     }
     .nav-pills-card .nav-link-card.active, .nav-pills-card .pane-show > .nav-link-card{
         width: 18rem;
