@@ -618,11 +618,14 @@
     bottom: 0;
 }
 .card-owl-heading{
-    color:#ffffff;
+   
+    color:#FFC86B;
     margin-left: 20px;
+    font-family:Dosis !important;
+   
 }
 .card-owl-para{
-    color:#FFAD0D;
+    color:#ffffff;
     margin-left: 20px;
 }
               /* Art-Css*/
